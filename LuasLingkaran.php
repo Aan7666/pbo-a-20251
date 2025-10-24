@@ -57,3 +57,5 @@ $lingkaran->tampil('roda');
 echo'<br>';
 LuasLingkaran::testing();
 KelilingLingkaran::testing();
+
+// /hitammm
